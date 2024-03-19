@@ -1,5 +1,20 @@
 [
   {
+    "A": "https://s8.uupload.ir/files/soccer_npkt.png",
+    "B": "فوتبال من",
+    "C": "https://soccer.frvr.com/alc/?web&source=frvr.com&action=browse_filtered&theme=light"
+  },
+  {
+    "A": "https://s8.uupload.ir/files/darts_ycrm.png",
+    "B": "دارتیس",
+    "C": "https://darts.frvr.com/alc/?web&source=frvr.com&action=browse_filtered&action_secondary=android_mobile_popup&theme=light"
+  },
+  {
+    "A": "https://s8.uupload.ir/files/pegball_jqjx.png",
+    "B": "فوتبال جمعی",
+    "C": "https://pegball.frvr.com/?web&source=frvr.com&action=recently_played&theme=light"
+  },
+  {
     "A": "https://s6.uupload.ir/files/270x196_climbhero-html5_thumbnail_rr0j.png",
     "B": "قهرمان صعود",
     "C": "https://wanted5games.com/games/html5/climb-hero-new-en-s-iga-cloud/index.html?pub=10"
